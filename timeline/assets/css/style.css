@@ -114,6 +114,12 @@ hr {
 html {
   box-sizing: border-box;
 }
+
+.bodyGreyscale {
+  filter: grayscale(100%);
+}
+
+
 body {
   background-color: #121212;
   /* background-color: var(--color-bg, white); */
