@@ -3313,6 +3313,10 @@ mark {
   background-color: hsl(47, 85%, 61%);
   background-color: var(--cd-color-6);
 }
+.cd-timeline__img--general {
+  background-color: #121212;
+  /* background-color: var(--cd-color-6); */
+}
 .cd-timeline__content {
   -ms-flex-positive: 1;
   flex-grow: 1;
